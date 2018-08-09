@@ -6,7 +6,5 @@ class Dog
   def name 
     return @name 
   end 
-end 
-dog = Dog.new("fido")
-  puts dog.name 
+fido = Dog.new 
     
