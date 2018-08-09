@@ -7,5 +7,5 @@ class Dog
     return @name 
   end 
 end 
-dog = Dog.new()
+dog = Dog.new("fido")
     
