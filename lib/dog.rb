@@ -8,4 +8,5 @@ class Dog
   end 
 end 
 dog = Dog.new("fido")
+  puts 
     
