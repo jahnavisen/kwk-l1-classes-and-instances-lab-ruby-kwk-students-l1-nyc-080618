@@ -7,4 +7,6 @@ class Dog
     return @name 
   end 
 fido = Dog.new 
+lassie  = Dog.new 
+
     
