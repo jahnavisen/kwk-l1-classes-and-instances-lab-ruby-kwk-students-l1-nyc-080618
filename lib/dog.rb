@@ -1,2 +1,2 @@
 # dog.rb
-Class 
+Class = Dog 
