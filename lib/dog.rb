@@ -6,9 +6,10 @@ class Dog
   def name 
     return @name 
   end 
+end 
 fido = Dog.new 
 lassie  = Dog.new 
 snoopy  = Dog.new 
-end
-end 
+
+ 
     
